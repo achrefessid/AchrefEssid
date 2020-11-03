@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm [Achref Essid](achref-essid-portfolio.netlify.app), a Full Stack Javascript Developer 🚀 from Tunisia, passionate about javascript ecosystem. focused on creating modern web apps. Beside's programming, I enjoy playing video games.
+Hi, I'm [Achref Essid](https://achref-essid-portfolio.netlify.app), a Full Stack Javascript Developer 🚀 from Tunisia, passionate about javascript ecosystem. focused on creating modern web apps. Beside's programming, I enjoy playing video games.
 
   <img align="right" alt="GIF" src="https://github.com/ousszizou/ousszizou/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -18,7 +18,7 @@ Hi, I'm [Achref Essid](achref-essid-portfolio.netlify.app), a Full Stack Javascr
 - 🌱 I’m currently learning TypeScript and java; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@AchrefEssid5](https://twitter.com/AchrefEssid5);
-- 📝[My Portfolio](achref-essid-portfolio.netlify.app)
+- 📝[My Portfolio](https://achref-essid-portfolio.netlify.app)
 
 **Languages and Tools:**  
 
